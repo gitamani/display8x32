@@ -7,8 +7,12 @@
  *  https://web.telegram.org/#/im?p=@FlashledBot_bot               *
  *                                                                 *
  *  written by Giancarlo Bacchio                                   *
- *  modify by Giuseppe tamanini                                   *
- *******************************************************************/
+ *  modify by Giuseppe tamanini                                    *
+ *******************************************************************
+This code has released under license CC BY- SA
+last release created 17/01/2018
+by Giuseppe Tamanini
+*/
 
 #include <ESP8266WiFi.h>
 #include <WiFiClientSecure.h>
