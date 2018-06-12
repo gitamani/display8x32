@@ -16,15 +16,15 @@
 
 
 // Initialize Wifi connection to the router
-char ssid[] = "TP-LINK_GT";              // SSID nome della tua rete wifi
-char password[] = "toninat20261956";         // password della tua rete wifi
+char ssid[] = "SSID";              // SSID nome della tua rete wifi
+char password[] = "password";         // password della tua rete wifi
 
 
 // Initialize Telegram BOT
 
-#define BOTtoken "273464286:AAF8DobDM153webrB7EodlAsHo94kjr2RVQ"  //token of FlashledBOT
-#define BOTname "ArdulogioBOT"
-#define BOTusername "ArdulogioBOT"
+#define BOTtoken "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"  //token of FlashledBOT
+#define BOTname "xxxxBOT"
+#define BOTusername "xxxxBOT"
 
 TelegramBOT bot(BOTtoken, BOTname, BOTusername);
 
